@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portpolio-project/static/css/main.95b9d9f0.css",
+    "main.js": "/portpolio-project/static/js/main.a01e25e5.js",
+    "static/media/boy.png": "/portpolio-project/static/media/boy.d0ccc036c99727a3a38b.png",
+    "static/media/Resume.pdf": "/portpolio-project/static/media/Resume.aef8c3654d190296cb24.pdf",
+    "static/media/wave.png": "/portpolio-project/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/portpolio-project/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/portpolio-project/index.html",
+    "main.95b9d9f0.css.map": "/portpolio-project/static/css/main.95b9d9f0.css.map",
+    "main.a01e25e5.js.map": "/portpolio-project/static/js/main.a01e25e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b9d9f0.css",
+    "static/js/main.a01e25e5.js"
+  ]
+}
