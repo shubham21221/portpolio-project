@@ -13,7 +13,7 @@ const Intro = () => {
       {/* left name side */}
       <div className="i-left">
         <div className="i-name">
-          <span> Hy! I Am</span>
+          <span> Hey! I Am</span>
           <span>Shubham Sonawane</span>
           <span>
             Student At Dr. D. Y. Patil Technical Campus, Pune (Computer Engineering 3rd year) | Coder<br />fullstack Developer with low level of experience in web designing
